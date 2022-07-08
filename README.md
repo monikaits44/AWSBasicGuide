@@ -6,13 +6,19 @@ I have recently given exam of AWS Cloud Fundamental which is popularly known as 
 So here I'm sharing resorces which I refered for clearing out my exam.
 
 AWS Cloud Practioitoner :
+
 https://michaeljanschiumo.medium.com/i-passed-the-aws-certified-cloud-practitioner-aws-ccp-in-3-days-heres-how-7b33d6d94f41
+
 https://docs.google.com/document/d/1V-Ju_p2a7YffxquBAVcjAWerTez66QgyK5OSobjmPaU/edit
+
 https://github.com/raj99gaurav/awscpstudymaterial
 
 https://www.youtube.com/watch?v=IvvD13aNO68&list=RDCMUC_XQpjLS2Zr4DRRXqDIHnRA&index=1&ab_channel=CloudGuru
+
 https://ibm-learning.udemy.com/course/aws-certified-cloud-practitioner-5-practice-tests/learn/quiz/5071876#reviews
+
 https://digitalcloud.training/category/aws-cheat-sheets/aws-cloud-practitioner/
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *AWS prep doc:
