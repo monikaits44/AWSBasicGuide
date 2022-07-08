@@ -1,4 +1,4 @@
-# AWSBasicGuide
+# AWS-Basic-Guide
 AWS Certified Cloud Practitioner (CLF-C01) Exam Guide
 
 Hello Folks,
