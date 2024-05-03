@@ -1,5 +1,6 @@
-# AWS Basic Guide
-AWS Certified Cloud Practitioner (CLF-C01) Exam Guide
+# CLF-C01 - AWS Certified Cloud Practitioner Exam Guide
+
+Resources for exam AWS Certified Cloud Practitioner (CLF-C01)
 
 Hello Folks,
 I have recently given exam of AWS Cloud Fundamental which is popularly known as AWS Cloud Practitioner (CLF-C01). I'm familier with AWS since earliy stages of my career but inorder to pass the exam I needed to gather resources to study within short duration of time.
